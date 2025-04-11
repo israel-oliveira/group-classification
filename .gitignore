@@ -1,12 +1,28 @@
 .idea/
+.vscode/
 
-cmake-build-debug/
+build/
+cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
-*.obj
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+compile_commands.json
+
 *.exe
-*.ninja*
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.out
 *.log
-build/
 
 Testing/
+
+*.swp
+*.tmp
+*.bak
