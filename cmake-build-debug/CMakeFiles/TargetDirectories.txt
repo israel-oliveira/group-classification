@@ -1,3 +1,0 @@
-C:/Users/israe/Arquivos/Área de Trabalho/group-classification/cmake-build-debug/CMakeFiles/group_classification.dir
-C:/Users/israe/Arquivos/Área de Trabalho/group-classification/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/israe/Arquivos/Área de Trabalho/group-classification/cmake-build-debug/CMakeFiles/rebuild_cache.dir
