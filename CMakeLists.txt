@@ -3,4 +3,4 @@ project(group_classification)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(group_classification main.cpp)
+add_executable(group_classification main.c)
